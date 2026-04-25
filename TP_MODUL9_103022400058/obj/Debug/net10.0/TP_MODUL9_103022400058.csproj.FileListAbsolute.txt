@@ -1,0 +1,16 @@
+C:\AffanPunya\Tugas Kuliah\Semester 4\Codingan\C#\TP_MODUL9_103022400058\TP_MODUL9_103022400058\bin\Debug\net10.0\covid_config.json
+C:\AffanPunya\Tugas Kuliah\Semester 4\Codingan\C#\TP_MODUL9_103022400058\TP_MODUL9_103022400058\bin\Debug\net10.0\TP_MODUL9_103022400058.exe
+C:\AffanPunya\Tugas Kuliah\Semester 4\Codingan\C#\TP_MODUL9_103022400058\TP_MODUL9_103022400058\bin\Debug\net10.0\TP_MODUL9_103022400058.deps.json
+C:\AffanPunya\Tugas Kuliah\Semester 4\Codingan\C#\TP_MODUL9_103022400058\TP_MODUL9_103022400058\bin\Debug\net10.0\TP_MODUL9_103022400058.runtimeconfig.json
+C:\AffanPunya\Tugas Kuliah\Semester 4\Codingan\C#\TP_MODUL9_103022400058\TP_MODUL9_103022400058\bin\Debug\net10.0\TP_MODUL9_103022400058.dll
+C:\AffanPunya\Tugas Kuliah\Semester 4\Codingan\C#\TP_MODUL9_103022400058\TP_MODUL9_103022400058\bin\Debug\net10.0\TP_MODUL9_103022400058.pdb
+C:\AffanPunya\Tugas Kuliah\Semester 4\Codingan\C#\TP_MODUL9_103022400058\TP_MODUL9_103022400058\obj\Debug\net10.0\TP_MODUL9_103022400058.GeneratedMSBuildEditorConfig.editorconfig
+C:\AffanPunya\Tugas Kuliah\Semester 4\Codingan\C#\TP_MODUL9_103022400058\TP_MODUL9_103022400058\obj\Debug\net10.0\TP_MODUL9_103022400058.AssemblyInfoInputs.cache
+C:\AffanPunya\Tugas Kuliah\Semester 4\Codingan\C#\TP_MODUL9_103022400058\TP_MODUL9_103022400058\obj\Debug\net10.0\TP_MODUL9_103022400058.AssemblyInfo.cs
+C:\AffanPunya\Tugas Kuliah\Semester 4\Codingan\C#\TP_MODUL9_103022400058\TP_MODUL9_103022400058\obj\Debug\net10.0\TP_MODUL9_103022400058.csproj.CoreCompileInputs.cache
+C:\AffanPunya\Tugas Kuliah\Semester 4\Codingan\C#\TP_MODUL9_103022400058\TP_MODUL9_103022400058\obj\Debug\net10.0\TP_MODUL9_103022400058.sourcelink.json
+C:\AffanPunya\Tugas Kuliah\Semester 4\Codingan\C#\TP_MODUL9_103022400058\TP_MODUL9_103022400058\obj\Debug\net10.0\TP_MODUL9_103022400058.dll
+C:\AffanPunya\Tugas Kuliah\Semester 4\Codingan\C#\TP_MODUL9_103022400058\TP_MODUL9_103022400058\obj\Debug\net10.0\refint\TP_MODUL9_103022400058.dll
+C:\AffanPunya\Tugas Kuliah\Semester 4\Codingan\C#\TP_MODUL9_103022400058\TP_MODUL9_103022400058\obj\Debug\net10.0\TP_MODUL9_103022400058.pdb
+C:\AffanPunya\Tugas Kuliah\Semester 4\Codingan\C#\TP_MODUL9_103022400058\TP_MODUL9_103022400058\obj\Debug\net10.0\TP_MODUL9_103022400058.genruntimeconfig.cache
+C:\AffanPunya\Tugas Kuliah\Semester 4\Codingan\C#\TP_MODUL9_103022400058\TP_MODUL9_103022400058\obj\Debug\net10.0\ref\TP_MODUL9_103022400058.dll
